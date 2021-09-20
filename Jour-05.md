@@ -7,13 +7,13 @@
 
 * [x] Créer son premier repo Github
 * [x] Faire ses première manipulations de versionning (init, push, add, commit, status, pull)
-* [ ] Découverte du Markdown : 
+* [x] Découverte du Markdown : 
   * [ ] Comprendre l'intérêt du Markdown
   * [ ] Découvrir les balises de bases : 
-    * [ ] Titres
-    * [ ] Images
-    * [ ] Listes
-    * [ ] Formatage de texte (italique, souligné, gras)
+    * [x] Titres
+    * [x] Images
+    * [x] Listes
+    * [x] Formatage de texte (italique, souligné, gras)
     * [ ] Code
     * [ ] Citations
     * [ ] Tableaux
