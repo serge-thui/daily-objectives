@@ -19,7 +19,7 @@
 
   * [x] Comprendre le fonctionnement et l'utilité des variables (http://javascript.info/variables)
     * [x] Comprendre la différence entre `let`, `var` et `const`
-    * [ ] Faire les 3 exercices
+    * [x] Faire les 3 exercices
 
 
 ### Algo : 
