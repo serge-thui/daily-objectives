@@ -12,7 +12,7 @@
   * [x] Comprendre l'utilité et le fonctionnement des labels en HTML5
   * [x] Comprendre le fonctionnement des dropdwowns, boutons radio, et checkbox
   * [x] Savoir insérer une vidéo dans une page HTML (Youtube, locale)
-  * [ ] Créer son premier formulaire HTML (voir brief)
+  * [x] Créer son premier formulaire HTML (voir brief)
 
 
 ## Javascript : 
