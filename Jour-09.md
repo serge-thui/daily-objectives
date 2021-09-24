@@ -18,13 +18,13 @@
 
 ### Javascript :
 
-  * [ ] Découvrir les 8 types de données en Javascript et comprendre leurs différences (http://fr.javascript.info/types)
-    * [ ] Faire l'exercice et analyser ses erreurs le cas échéant
+  * [x] Découvrir les 8 types de données en Javascript et comprendre leurs différences (http://fr.javascript.info/types)
+    * [x] Faire l'exercice et analyser ses erreurs le cas échéant
 
 
 ### Algo : 
 
-  * [ ] Comprendre l'utilité des algorithmes de tri
-  * [ ] Découvrir le tri par insertion (Insertion Sort)
+  * [x] Comprendre l'utilité des algorithmes de tri
+  * [x] Découvrir le tri par insertion (Insertion Sort)
 
 
