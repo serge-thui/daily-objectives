@@ -15,14 +15,14 @@
   * [x] Savoir architecturer une page HTML basique
   * [x] Comprendre le fonctionnement des attributs en HTML
   * [x] Savoir commenter dans une page HTML
-  * [ ] Découvrir le principe de parents/enfants
-  * [ ] Découvrir le HTML5 sémantique
+  * [x] Découvrir le principe de parents/enfants
+  * [x] Découvrir le HTML5 sémantique
 * [ ] Comprendre la différence entre les liens relatifs et liens absolus
-* [ ] Créer sa première page HTML (voir brief CV)
+* [x] Créer sa première page HTML (voir brief CV)
 
 
 ## Javascript : 
 
   * [x] Savoir comment insérer du javascript dans du HTML de différentes manières (http://fr.javascript.info/hello-world)
-  * [ ] Savoir comment sont structurés les documents javascript (http://fr.javascript.info/structure)
+  * [x] Savoir comment sont structurés les documents javascript (http://fr.javascript.info/structure)
   * [ ] Comprendre le fonctionnement et l'utilité du `"use strict"` (http://fr.javascript.info/strict-mode)
