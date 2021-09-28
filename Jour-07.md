@@ -18,6 +18,7 @@
   * [x] Découvrir le principe de parents/enfants
   * [x] Découvrir le HTML5 sémantique
 * [ ] Comprendre la différence entre les liens relatifs et liens absolus
+<<<<<<< HEAD
 * [x] Créer sa première page HTML (voir brief CV)
 
 
@@ -26,3 +27,6 @@
   * [x] Savoir comment insérer du javascript dans du HTML de différentes manières (http://fr.javascript.info/hello-world)
   * [x] Savoir comment sont structurés les documents javascript (http://fr.javascript.info/structure)
   * [ ] Comprendre le fonctionnement et l'utilité du `"use strict"` (http://fr.javascript.info/strict-mode)
+=======
+* [ ] Créer sa première page HTML (voir brief CV)
+>>>>>>> 2c5f73e236507e88ad81d9ef98baee0cec7049c9

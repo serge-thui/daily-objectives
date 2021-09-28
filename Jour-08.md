@@ -2,7 +2,7 @@
 
 ## Phase 1 - Je suis un(e) développeur(se)
 
-## Mercredi 22/09/2021
+## Jeudi 23/09/2021
 
 ### HTML :
 
@@ -14,6 +14,7 @@
   * [x] Savoir insérer une vidéo dans une page HTML (Youtube, locale)
   * [x] Créer son premier formulaire HTML (voir brief)
 
+<<<<<<< HEAD
 
 ## Javascript : 
 
@@ -27,3 +28,5 @@
   * [x] Comprendre ce qu'est un algorithme
   * [x] Comprendre l'utilité des algorithmes
   * [x] Déterminer l'importance de l’étude des algorithmes dans une carrière de dev
+=======
+>>>>>>> 2c5f73e236507e88ad81d9ef98baee0cec7049c9

@@ -2,10 +2,11 @@
 
 ## Phase 1 - Je suis un(e) développeur(se)
 
-## Mardi 21/09/2021
+## Lundi 20/09/2021
 
 ### Maquettage
 
+<<<<<<< HEAD
 * [x] Découvrir le maquettage d'interface d'une application (wireframe)
 * [x] Choix d'un outil de maquettage
 * [x] Cadrer la demande client
@@ -21,3 +22,10 @@
     * [ ] Comprendre ce qu'est la spécification `ECMA-262`
     * [ ] Comprendre ce qu'est le `TC-39`
     * [ ] Lister les bonnes sources de documentation
+=======
+* [ ] Découvrir le maquettage d'interface d'une application (wireframe)
+* [ ] Choix d'un outil de maquettage
+* [ ] Cadrer la demande client
+* [ ] Découvrir les règles ergonomiques et d'expérience utilisateur
+* [ ] Créer son premier wireframe (voir brief)
+>>>>>>> 2c5f73e236507e88ad81d9ef98baee0cec7049c9
