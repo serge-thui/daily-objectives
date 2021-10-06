@@ -5,8 +5,8 @@
 ### Javascript
 
 * [x] Comprendre le fonctionnement de `alert`, `prompt` et https://fr.javascript.info/alert-prompt-confirm
-  * [ ] Faire l’exercice et analyser ses erreurs
-* [ ] Comprendre les conversion de types en Javascript (http://fr.javascript.info/type-conversions)
+  * [x] Faire l’exercice et analyser ses erreurs
+* [x] Comprendre les conversion de types en Javascript (http://fr.javascript.info/type-conversions)
 * [ ] Comprendre le fonctionnement des opérateurs en Javascript (https://fr.javascript.info/operators)
   * [ ] Comprendre la différence entre unaire, binaire et opérande
   * [ ] Comprendre la concaténation
