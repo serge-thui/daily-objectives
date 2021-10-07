@@ -10,8 +10,8 @@
     * [x] Comprendre comment sont comparées des valeurs de types différents
     * [x] Comprendre le mécanisme de comparaison avec `null` et `undefined`
     * [x] Faire l’exercice et analyser ses erreurs
-  * [ ] Comprendre le fonctionnement des opérateurs conditionnels `if` et `?` (https://javascript.info/ifelse)
-    * [ ] Faire les 5 exercices et analyser ses erreurs
+  * [x] Comprendre le fonctionnement des opérateurs conditionnels `if` et `?` (https://javascript.info/ifelse)
+    * [x] Faire les 5 exercices et analyser ses erreurs
   * [ ] Comprendre le fonctionnement des opérateurs logiques `||`, `&&` et `!` (https://javascript.info/logical-operators)
     * [ ] Faire les 9 exercices et analyser ses erreurs
 
