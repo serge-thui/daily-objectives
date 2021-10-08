@@ -12,5 +12,5 @@
 
 ### Algo : 
 
-* [ ] Découvrir le tri rapide (Quicksort)
+* [x] Découvrir le tri rapide (Quicksort)
 
