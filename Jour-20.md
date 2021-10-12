@@ -6,7 +6,7 @@
 
 * [x] Comprendre le fonctionnement des fonctions (https://javascript.info/function-basics)
     * [x] Faire les 4 exercices
-* [ ] Comprendre le fonctionnement des fonctions expression (https://fr.javascript.info/function-expressions)
+* [x] Comprendre le fonctionnement des fonctions expression (https://fr.javascript.info/function-expressions)
 * [ ] Comprendre le fonctionnement des Fonctions fléchées (https://fr.javascript.info/arrow-functions-basics)
 * [ ] S'assurer que toutes les notions dans la page `Javascript special` sont bien comprises.
 * [ ] Découvrir les outils de debug dans Google Chrome (https://javascript.info/debugging-chrome)
