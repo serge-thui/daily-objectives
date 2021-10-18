@@ -15,8 +15,8 @@
 
 #### Codewars :
 
-* [ ] Faire le kata "Grasshopper - Terminal Game #1" (8 kyu) : https://www.codewars.com/kata/55e8aba23d399a59500000ce/javascript
-* [ ] Faire le kata "Keep up the hoop" (8 kyu) : https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145
+* [x] Faire le kata "Grasshopper - Terminal Game #1" (8 kyu) : https://www.codewars.com/kata/55e8aba23d399a59500000ce/javascript
+* [x] Faire le kata "Keep up the hoop" (8 kyu) : https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145
 
 
 ### Algo : 
