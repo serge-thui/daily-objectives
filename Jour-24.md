@@ -10,8 +10,8 @@
   * [x] Faire les 3 exercices et analyser ses erreurs
 * [x] Découvrir les méthodes de primitives (https://javascript.info/primitives-methods)
   * [x] Faire l’exercice et analyser ses erreurs
-* [ ] Appronfondir les `numbers` en Javascript (https://javascript.info/number)
-  * [ ] Faire les 6 exercices et analyser ses erreurs
+* [x] Appronfondir les `numbers` en Javascript (https://javascript.info/number)
+  * [x] Faire les 6 exercices et analyser ses erreurs
 
 
 
