@@ -15,7 +15,7 @@
       * [x] `getElementsByClassName`
       * [x] `elem.matches(css)`
       * [x] `elem.closest(css)`
-    * [ ] Comprendre la différence de sortie entre `querySelectorAll` et `getElementsBy*`
+    * [x] Comprendre la différence de sortie entre `querySelectorAll` et `getElementsBy*`
 
   * [ ] Comprendre ce que sont que les éléments qui composent le `DOM` (https://javascript.info/basic-dom-node-properties)
     * [ ] Découvrir la différence entre les `nodeType` (1,3 et 9)
@@ -34,8 +34,8 @@
       * [ ] récupérer une collection de tous les `attributes`
 
 * Codewars :
-  * [ ] Count of positives / sum of negatives (https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
-  * [ ] Odd or Even? (https://www.codewars.com/kata/5949481f86420f59480000e7)
+  * [x] Count of positives / sum of negatives (https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
+  * [x] Odd or Even? (https://www.codewars.com/kata/5949481f86420f59480000e7)
 
 
 ### Algo : 
